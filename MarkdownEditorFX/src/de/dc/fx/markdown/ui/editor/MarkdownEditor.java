@@ -6,5 +6,6 @@ public class MarkdownEditor extends MonacoTextEditor{
 
 	public MarkdownEditor() {
 		paneMonaco.setCurrentLanguage("markdown");
+		paneMonaco.setCurrentTheme("vs-dark");
 	}
 }

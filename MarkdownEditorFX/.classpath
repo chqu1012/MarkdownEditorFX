@@ -4,7 +4,6 @@
 	<classpathentry exported="true" kind="lib" path="libs/de.dc.workbench.fx.core.modul_0.1.0.202109031141.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/de.dc.workbench.fx.core.properties_0.1.0.202109031141.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/de.dc.workbench.fx.core.workspace_0.1.0.202109031141.jar"/>
-	<classpathentry exported="true" kind="lib" path="libs/de.dc.workbench.fx.ui.monaco_0.1.0.202109031141.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/de.dc.workbench.fx.ui.views_1.0.0.202109031141.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/de.dc.workbench.fx.ui.views.pdf_1.0.0.202109031141.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/flexmark/annotations-15.0.jar"/>
