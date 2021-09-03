@@ -7,7 +7,7 @@ A small markdown editor with some useful features:
 * templates
 * pdf export
 
-![Application](https://github.com/chqu1012/PDFEditorFX/blob/main/PdfEditorFX/resources/01_pdfeditor.PNG)  
+![Application](https://github.com/chqu1012/MarkdownEditorFX/blob/main/MarkdownEditorFX/resources/01_app.png)  
 
 ## Version
 
