@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ASCII"?>
+<monaco:Monaco xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:monaco="http://www.frateranatis.org/fx/emf/monaco" 
+language="markdown" fileExtension="md">
+  <lensProvider>
+    <codeLenses startLineNumber="1" startColumn="1" endLineNumber="1" endColumn="1" title="Add String Template">
+      <command id="addStringTemplateCommand" script="editorView.trigger('keyboard', 'type', {text: `text on multiple line`});"/>
+    </codeLenses>
+  </lensProvider>
+</monaco:Monaco>
