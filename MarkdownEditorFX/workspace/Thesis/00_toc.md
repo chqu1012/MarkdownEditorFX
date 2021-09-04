@@ -7,6 +7,8 @@ public static final String name = "Hello World";
 ```
 
 | Column1 | Column2 | Column3|
+|---------|---------|---------|
+| Column1 | Column2 | Column3|
 | Column1 | Column2 | Column3|
 | Column1 | Column2 | Column3|
 

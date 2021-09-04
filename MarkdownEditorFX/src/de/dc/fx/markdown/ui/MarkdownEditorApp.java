@@ -2,6 +2,7 @@ package de.dc.fx.markdown.ui;
 
 import com.google.inject.Inject;
 
+import de.dc.fx.markdown.ui.di.FlexmarkModule;
 import de.dc.workbench.fx.core.workspace.di.WorkspaceModule;
 import de.dc.workbench.fx.ui.EmfApplication;
 import de.dc.workbench.fx.ui.EmfWorkbench;
@@ -19,6 +20,7 @@ public class MarkdownEditorApp extends EmfApplication{
 	
 	@Override
 	protected void addModules() {
+		addModule(new FlexmarkModule());
 		addModule(new WorkspaceModule());
 		addModule(new MonacoModule());
 	}

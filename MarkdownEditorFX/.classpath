@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="libs/de.dc.workbench.fx.core_1.0.0.202109031141.jar"/>
-	<classpathentry exported="true" kind="lib" path="libs/de.dc.workbench.fx.core.modul_0.1.0.202109031141.jar"/>
-	<classpathentry exported="true" kind="lib" path="libs/de.dc.workbench.fx.core.properties_0.1.0.202109031141.jar"/>
-	<classpathentry exported="true" kind="lib" path="libs/de.dc.workbench.fx.core.workspace_0.1.0.202109031141.jar"/>
-	<classpathentry exported="true" kind="lib" path="libs/de.dc.workbench.fx.ui.views_1.0.0.202109031141.jar"/>
-	<classpathentry exported="true" kind="lib" path="libs/de.dc.workbench.fx.ui.views.pdf_1.0.0.202109031141.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/1.0.14/de.dc.workbench.fx.ui.markdown_0.1.0.202109041003.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/1.0.14/de.dc.workbench.fx.core_1.0.0.202109040958.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/1.0.14/de.dc.workbench.fx.core.modul_0.1.0.202109040958.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/1.0.14/de.dc.workbench.fx.core.properties_0.1.0.202109040958.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/1.0.14/de.dc.workbench.fx.core.workspace_0.1.0.202109040958.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/1.0.14/de.dc.workbench.fx.core.xtext_1.0.0.202109040958.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/1.0.14/de.dc.workbench.fx.ui.monaco_0.1.0.202109040958.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/1.0.14/de.dc.workbench.fx.ui.views_1.0.0.202109040958.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/flexmark/annotations-15.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/flexmark/autolink-0.6.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="libs/flexmark/commons-logging-1.2.jar"/>

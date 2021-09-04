@@ -8,14 +8,15 @@
 	    <units xsi:type="modul:GeneralView" type="HISTORY"/>
 	    <units xsi:type="modul:View" id="de.dc.fx.markdown.ui.view.MarkdownPreview" name="Preview" uri="de.dc.fx.markdown.ui.view.MarkdownPreview"/>
 	    <units xsi:type="modul:View" id="de.dc.workbench.fx.ui.views.ProjectExplorer" name="Project Explorer" uri="de.dc.workbench.fx.ui.views.ProjectExplorer"/>
+	    <units xsi:type="modul:View" id="de.dc.fx.markdown.ui.view.MarkdownOutline" name="Outline" uri="de.dc.fx.markdown.ui.view.MarkdownOutline"/>
 	  </extensionPoints>
 
 	<extensionPoints name="Perspectives">
 	    <units xsi:type="modul:Perspective" 
 	    	id="de.dc.fx.ui.markdown.perspective" name="Markdown" 
 	    	left="//@extensionPoints.0/@units.1 //@extensionPoints.0/@units.3" 
-	    	right="//@extensionPoints.0/@units.2"
-	    	rightRatio="0.7"
+	    	right="//@extensionPoints.0/@units.2 //@extensionPoints.0/@units.4"
+	    	rightRatio="0.6"
 	    	bottom="//@extensionPoints.0/@units.0" 
 	    	associatedEditors="//@extensionPoints.2/@units.0" hideBottom="true"/>
 	</extensionPoints>
