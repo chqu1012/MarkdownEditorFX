@@ -18,6 +18,10 @@ Editor features:
 
 ![Application](https://github.com/chqu1012/MarkdownEditorFX/blob/main/MarkdownEditorFX/resources/01_app.png)  
 
+Parsing the markdown file to outline ast
+
+![Outline](https://github.com/chqu1012/MarkdownEditorFX/blob/main/MarkdownEditorFX/resources/02_outline.png)  
+
 ## Version
 
 ## ChangeLog
